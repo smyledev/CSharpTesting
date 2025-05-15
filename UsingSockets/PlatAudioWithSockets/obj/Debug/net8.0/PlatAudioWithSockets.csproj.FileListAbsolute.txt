@@ -1,0 +1,14 @@
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\bin\Debug\net8.0\PlatAudioWithSockets.exe
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\bin\Debug\net8.0\PlatAudioWithSockets.deps.json
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\bin\Debug\net8.0\PlatAudioWithSockets.runtimeconfig.json
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\bin\Debug\net8.0\PlatAudioWithSockets.dll
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\bin\Debug\net8.0\PlatAudioWithSockets.pdb
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\PlatAudioWithSockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\PlatAudioWithSockets.AssemblyInfoInputs.cache
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\PlatAudioWithSockets.AssemblyInfo.cs
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\PlatAudioWithSockets.csproj.CoreCompileInputs.cache
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\PlatAudioWithSockets.dll
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\refint\PlatAudioWithSockets.dll
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\PlatAudioWithSockets.pdb
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\PlatAudioWithSockets.genruntimeconfig.cache
+C:\Users\Ilya.Samoylov\source\repos\PlatAudioWithSockets\PlatAudioWithSockets\obj\Debug\net8.0\ref\PlatAudioWithSockets.dll
