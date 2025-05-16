@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlatAudioWithSockets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e13c870fb5cbca05de6ad22b4e912038eccf0d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlatAudioWithSockets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlatAudioWithSockets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
