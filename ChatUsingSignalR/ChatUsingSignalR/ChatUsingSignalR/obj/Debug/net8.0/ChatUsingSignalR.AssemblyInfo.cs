@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatUsingSignalR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+135a46acb947222e37ee2a7c4b2161b6b7722e4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c16ab3852b3791fc752d1465461b2b4143ddd7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatUsingSignalR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatUsingSignalR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
