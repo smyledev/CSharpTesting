@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eFC8gs+UVrPvbR3Q2QWxagjA3uMv/hVBnYQPyOb4BS4=",
+  "Source": "ChatUsingSignalR",
+  "BasePath": "_content/ChatUsingSignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
